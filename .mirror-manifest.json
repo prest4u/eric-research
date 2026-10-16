@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "canonical_repository": "prest4u/eric-agent-skills",
+  "skill": "eric-research",
+  "version": "1.0.1",
+  "source_commit": "1d5e654b1a54ec0d72246f50889ef47ece142475",
+  "managed_files": {
+    ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
+    "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
+    "LICENSE": "5c22156d56eba148899e472b10cf1662e6387d1b7f5aec552d9772fc29579ebe",
+    "README.md": "3c7c0f9a08c8c2faf997f57dbfb8164e487f63c1d3f693f7d92beefdf9a4d313",
+    "SECURITY.md": "a48a4a92a24aba36c77410a6c57aee63a54e086274331b7bd097eb89ac8bf2c6",
+    "SKILL.md": "1f72792918a9dd7d1043f28a1f5cf81df8aee0cecf7a1c1477102082c08b1fd9",
+    "THIRD_PARTY_NOTICES.md": "9db426aab5d3f9aa0c65fdae33ccbaf05ca9f43b3c1b85cd2aa9ff96656679bd",
+    "agents/openai.yaml": "c6ab11a8b2f1e9f8d5c7b54610d5670ecab3a5f698ab93953b5f7feb3b8326cc",
+    "references/education-academic.md": "7c302cfc88c465d6753afce69233a4529dc8d327dfe8977d55cefad7b2b4c4d9",
+    "references/evidence-contract.md": "dcb4dcf371382e5ef83ee6f6aa0a96df0428b8aba4e993f41a5d8c175f88aeef",
+    "references/finance.md": "ef2486701632d26bd86499c98ad9d0e1f8d6fd5800912a6398b4649539cef60e",
+    "references/marketing.md": "ca44a22646342c230b6760d2ce230f28923cc8dbef9afe0b50b5ec8dea40bc4a",
+    "references/news-social-entertainment.md": "2179a63a9c492693dba3bd8d74f551dae6c346cab6e1c655dabc49a4756c4ab8"
+  }
+}
